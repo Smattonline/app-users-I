@@ -1,2 +1,5 @@
-'name','email','phone','drivers_licence','city','state','zipcode'
-'Musa Sho','smatt@gmail.com',1234567890,'76738338','Dallas','TX',75201
+name,email,phone,drivers_licence,city,state,zipcode
+MUsa Sho,musa@gmail.com,1234567890,73638862,Dallas,TX,75432
+Ankur K,ankur@gmail.com,6252883662,54428825,Chicago,IL,76423
+Tom P,tom@gmail.com,8256399356,42925328,Chicago,IL,76392
+Derek M,derek@gmail.com,7533673839,73756622,Houston,TX,76293
